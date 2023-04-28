@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Marinkovic;Nikola;;;
+FN:Nikola Marinkovic
+ORG:Université Cergy-Pontoise
+TITLE:Étudiant
+TEL;TYPE=work,voice;VALUE=uri:tel:+33-7-6793-4236
+TEL;TYPE=home,voice;VALUE=uri:tel:+33-7-6793-4236
+EMAIL:nikola.marinkovic.pro@gmail.com
+REV:20080424T195243Z
+END:VCARD

@@ -1,0 +1,10 @@
+BEGIN:VCARD
+Version:2.1
+FN:Ly Amadou
+N:Amadou;Ly
+ADR;HOME;PREF;QUOTED-PRINTABLE:;cergy 95800=france;07 rue michel strogoff
+ADR;WORK;PREF;QUOTED-PRINTABLE:;Test 11000=France;9 rue du travaille
+TEL;CELL:0000000000
+EMAIL;INTERNET:test
+UID:
+END:VCARD
